@@ -27,7 +27,7 @@ This portfolio showcases the process of data normalization and cleaning applied 
 
 ## Step 3:
 Here is the initial output before I began the data cleaning process.
-![Image Alt](https://github.com/artjohnamaro/EDM-V3/blob/d58bee6bb9af3d847026f0d39a649bc96e3b7a43/images/before.png)
+![Image Alt](https://github.com/artjohnamaro/Midterm-Task-1/blob/3acb28f9e3d35f4fd6471267c75da3a400d06048/images/before.png)
 
 ## Step 4: 
 Here is the screenshot of my output after initiating the data cleaning process.
