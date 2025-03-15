@@ -31,9 +31,9 @@ Here is the initial output before I began the data cleaning process.
 
 ## Step 4: 
 Here is the screenshot of my output after initiating the data cleaning process.
-![Iamage Alt](https://github.com/artjohnamaro/EDM-PORTFOLIO/blob/b980aa0b5754eadc4a659788a2cfc44e11de9c42/images/Messenger_creation_3B040BBC-44AE-4D6F-B40A-F91A3581E6BC.jpeg)
+![Image](https://github.com/user-attachments/assets/876bb391-16f6-4976-90c5-e1696af86e10)
 ## Here is the Entity Relationship Diagram 
-![Image Alt](https://github.com/artjohnamaro/EDM-V3/blob/7968688b55ba0792630eb256bc5736108bfe95be/images/ERD%20(ART%20JOHN%20AMARO).png)
+![Image](https://github.com/user-attachments/assets/5b4b5491-b35b-49a8-be70-86bb587bf3b9)
 
 
 ## Data Cleaning
